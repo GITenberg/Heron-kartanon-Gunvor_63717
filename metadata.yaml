@@ -1,6 +1,9 @@
 _repo: Heron-kartanon-Gunvor_63717
 _version: 0.1.0
 alternative_title: Gunvor Thorsdatter til Hærø. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Prydz, Alvilde
@@ -13,6 +16,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Alvilde_Prydz
     - https://en.wikipedia.org/wiki/Alvilde_Prydz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63717#Heron-kartanon-Gunvor
 gutenberg_issued: '2020-11-11'
 gutenberg_type: Text
 identifiers:
